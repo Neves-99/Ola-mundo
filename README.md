@@ -1,2 +1,2 @@
-# Ola mundo
- primeiro depositório do curso git e github 
+# Olá, Mundo!
+Primeiro depositório do Curso git e Github 
